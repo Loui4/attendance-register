@@ -1,0 +1,122 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "firstname": "James",
+      "surname": "simbi",
+      "dob": "1/01/1995",
+      "gender": "Male",
+      "residence": 1
+    },
+    {
+      "firstname": "Louis",
+      "surname": "Nyirongo",
+      "gender": "Male",
+      "dob": "1995-01-08T11:41",
+      "residence": 2,
+      "id": 2
+    },
+    {
+      "firstname": "John",
+      "surname": "Doe",
+      "gender": "Male",
+      "dob": "2020-04-08T00:48",
+      "residence": 2,
+      "id": 3
+    }
+  ],
+  "residences": [
+    {
+      "id": 1,
+      "area": "Area 25",
+      "sector": "3"
+    },
+    {
+      "id": 2,
+      "area": "Area 23",
+      "sector": "3"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "date": "2020-01-08T11:41",
+      "name": "event 1",
+      "description": "super Event"
+    },
+    {
+      "id": 2,
+      "date": "2020-01-09T11:41",
+      "name": "event ",
+      "description": "super Event"
+    },
+    {
+      "id": 3,
+      "date": "2020-01-09T11:41",
+      "name": "event ",
+      "description": "super Event"
+    },
+    {
+      "name": "Event 3",
+      "date": "2020-07-08T00:03",
+      "id": 4
+    },
+    {
+      "name": "Event 4",
+      "date": "2020-07-09T00:34",
+      "id": 5
+    }
+  ],
+  "attendances": [
+    {
+      "service": 7,
+      "member": 1,
+      "id": 10
+    },
+    {
+      "service": 8,
+      "member": 1,
+      "id": 11
+    },
+    {
+      "service": 5,
+      "member": 3,
+      "id": 13
+    },
+    {
+      "service": 4,
+      "member": 2,
+      "id": 15
+    },
+    {
+      "service": 5,
+      "member": 1,
+      "id": 17
+    },
+    {
+      "service": 3,
+      "member": 1,
+      "id": 19
+    },
+    {
+      "service": 2,
+      "member": 3,
+      "id": 24
+    },
+    {
+      "service": 3,
+      "member": 2,
+      "id": 25
+    },
+    {
+      "service": 4,
+      "member": 3,
+      "id": 28
+    },
+    {
+      "service": 1,
+      "member": 1,
+      "id": 29
+    }
+  ]
+}
